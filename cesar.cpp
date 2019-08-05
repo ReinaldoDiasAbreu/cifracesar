@@ -100,7 +100,7 @@ void help()
     cout << endl << "           Cifra de Cesar - HELP" << endl << endl;
     cout << "       ./cesar cod arq.in op arq.out" << endl << endl;
     cout << "   cod              -> Valor de deslocamento" << endl;
-    cout << "   arq.in e arq.out -> arquivos de entrada e saída" << endl;
+    cout << "   arq.in e arq.out -> Arquivos de entrada e saída" << endl;
     cout << "   op               -> 1 para criptografar e 0 para descriptografar" << endl << endl;
 }
 
